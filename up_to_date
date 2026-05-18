@@ -1,0 +1,2 @@
+#In my local repository, I first checked for the branch I'm on with git status then ran,
+git pull
